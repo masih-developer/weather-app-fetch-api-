@@ -12,6 +12,10 @@
 
 #### you can enter your desired **country or city** inside the `input` tag and them press `Enter key` on your keyboard, finaly you can see the result.
 
+## demo
+
+#### https://masih-developer.github.io/weather-app-fetch-api-/
+
 ## Author
 
 ✅ [masih-developer](https://github.com/masih-developer/)
